@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Pig Latin- SOLVED", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaginationHelper- SOLVED", "17. PaginationHelper\PaginationHelper- SOLVED.csproj", "{2F2659A0-8A14-41DA-BAB1-0FBA0F8966CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balanced Brackets- SOLVED", "18. Balanced Brackets\Balanced Brackets- SOLVED.csproj", "{4F5F2326-0BA7-48FE-93F4-0047045D309C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -181,6 +183,14 @@ Global
 		{2F2659A0-8A14-41DA-BAB1-0FBA0F8966CE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2F2659A0-8A14-41DA-BAB1-0FBA0F8966CE}.Release|x64.ActiveCfg = Release|x64
 		{2F2659A0-8A14-41DA-BAB1-0FBA0F8966CE}.Release|x64.Build.0 = Release|x64
+		{4F5F2326-0BA7-48FE-93F4-0047045D309C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5F2326-0BA7-48FE-93F4-0047045D309C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5F2326-0BA7-48FE-93F4-0047045D309C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4F5F2326-0BA7-48FE-93F4-0047045D309C}.Debug|x64.Build.0 = Debug|Any CPU
+		{4F5F2326-0BA7-48FE-93F4-0047045D309C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5F2326-0BA7-48FE-93F4-0047045D309C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F5F2326-0BA7-48FE-93F4-0047045D309C}.Release|x64.ActiveCfg = Release|Any CPU
+		{4F5F2326-0BA7-48FE-93F4-0047045D309C}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

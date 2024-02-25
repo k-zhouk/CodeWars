@@ -1,4 +1,7 @@
-﻿20.01.2023
+﻿25.02.2024
+18. Balanced brackets
+
+20.01.2023
 
 Solutions to some of the CodeWars site problems
 
